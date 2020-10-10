@@ -3,3 +3,8 @@ lib
 example/.cache
 example/public
 example/.env
+example/notes/hello.md
+.gitignore
+example/notes/markdown.mdx
+package-lock.json
+example/notes/markdown.mdx
